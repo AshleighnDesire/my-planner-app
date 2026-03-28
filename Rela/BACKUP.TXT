@@ -1,0 +1,9 @@
+!-- Hero Content -->
+    <main role="main">
+        <section class="hero-content" aria-labelledby="hero-title">
+            <div class="hero-text">
+                <h2 id="hero-title" class="hero-title">Welcome to Serenity</h2>
+                <p class="hero-description">Your journey to wellness begins here</p>
+                <a href="services.html" class="btn-hero" role="button">Explore Our Services</a>
+            </div>
+        </section>
